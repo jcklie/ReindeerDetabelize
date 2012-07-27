@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+# Folder
+
+target/
+models/
+testdata/
+reports/
